@@ -1,4 +1,3 @@
-# pascoletti_serafini
-matlab implementation of pascoletti_serafini scalarization
+# Pascoletti Sarafini scalarization
 
-$\int_0^1 f(x)$
+*ps_solver.m*: This is a matlab implementation of the pascoletti sarafini scalarization.
