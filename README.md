@@ -1,0 +1,2 @@
+# pascoletti_serafini
+matlab implementation of pascoletti_serafini scalarization
