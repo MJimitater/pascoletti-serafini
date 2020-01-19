@@ -6,7 +6,7 @@ Given a multiobjective optimisation problem (MOP):
 
 (MOP) `min C·x`
 
-`s.t.``
+`s.t.`
 
 `A·x ≦ b`
 
