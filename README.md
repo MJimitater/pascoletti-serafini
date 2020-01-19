@@ -4,9 +4,8 @@
 
 Given a multiobjective optimisation problem (MOP):
 
-(MOP) `min C·x`
-
-`s.t.`
+(MOP) `min C·x
+s.t.`
 
 `A·x ≦ b`
 
