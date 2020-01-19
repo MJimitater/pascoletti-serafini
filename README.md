@@ -4,7 +4,7 @@
 
 Given a multiobjective optimisation problem (MOP):
 
-(MOP) ```min C·x
+(MOP) ``min C·x
 
 s.t.
 
@@ -12,7 +12,7 @@ A·x ≦ b
 
 x≧0
 
-x∊ℝ^n, C∊ℝ^{nxQ}, A∊ℝ^{mxn}, b∊ℝ^m```
+x∊ℝ^n, C∊ℝ^{nxQ}, A∊ℝ^{mxn}, b∊ℝ^m``
 
 We can use the Pascoletti Serafini (PS(a,r)), to iteratively find out all weakly non-dominated points:
 
