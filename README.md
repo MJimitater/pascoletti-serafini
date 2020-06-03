@@ -1,6 +1,6 @@
 # Pascoletti Sarafini scalarization
 
-*ps_solver.m*: This is a matlab implementation of the pascoletti sarafini scalarization.
+*ps_solver.m*: This is a matlab implementation of the Pascoletti Sarafini scalarization for solving multiple criteria optimisation problems (MOPs).
 
 Given a multiobjective optimisation problem (MOP):
 
